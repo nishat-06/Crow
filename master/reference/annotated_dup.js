@@ -36,7 +36,10 @@ var annotated_dup =
       ] ],
       [ "json", null, [
         [ "detail", null, [
-          [ "r_string", "structcrow_1_1json_1_1detail_1_1r__string.html", "structcrow_1_1json_1_1detail_1_1r__string" ]
+          [ "insertion_order_policy", "structcrow_1_1json_1_1detail_1_1insertion__order__policy.html", null ],
+          [ "map_policy", "structcrow_1_1json_1_1detail_1_1map__policy.html", null ],
+          [ "r_string", "structcrow_1_1json_1_1detail_1_1r__string.html", "structcrow_1_1json_1_1detail_1_1r__string" ],
+          [ "unordered_policy", "structcrow_1_1json_1_1detail_1_1unordered__policy.html", null ]
         ] ],
         [ "rvalue", "classcrow_1_1json_1_1rvalue.html", "classcrow_1_1json_1_1rvalue" ],
         [ "wvalue", "classcrow_1_1json_1_1wvalue.html", "classcrow_1_1json_1_1wvalue" ],
@@ -87,6 +90,7 @@ var annotated_dup =
       [ "ILogHandler", "classcrow_1_1_i_log_handler.html", null ],
       [ "InMemoryStore", "structcrow_1_1_in_memory_store.html", null ],
       [ "logger", "classcrow_1_1logger.html", null ],
+      [ "ordered_object", "classcrow_1_1ordered__object.html", "classcrow_1_1ordered__object" ],
       [ "query_string", "classcrow_1_1query__string.html", "classcrow_1_1query__string" ],
       [ "request", "structcrow_1_1request.html", "structcrow_1_1request" ],
       [ "response", "structcrow_1_1response.html", "structcrow_1_1response" ],
@@ -97,12 +101,12 @@ var annotated_dup =
       [ "Server", "classcrow_1_1_server.html", "classcrow_1_1_server" ],
       [ "SessionMiddleware", "structcrow_1_1_session_middleware.html", "structcrow_1_1_session_middleware" ],
       [ "SocketAdaptor", "structcrow_1_1_socket_adaptor.html", "structcrow_1_1_socket_adaptor" ],
-      [ "SSLAdaptor", "structcrow_1_1_s_s_l_adaptor.html", null ],
+      [ "SSLAdaptor", "structcrow_1_1_s_s_l_adaptor.html", "structcrow_1_1_s_s_l_adaptor" ],
       [ "TaggedRule", "classcrow_1_1_tagged_rule.html", null ],
       [ "TCPAcceptor", "structcrow_1_1_t_c_p_acceptor.html", null ],
       [ "Trie", "classcrow_1_1_trie.html", "classcrow_1_1_trie" ],
       [ "UnixSocketAcceptor", "structcrow_1_1_unix_socket_acceptor.html", null ],
-      [ "UnixSocketAdaptor", "structcrow_1_1_unix_socket_adaptor.html", null ],
+      [ "UnixSocketAdaptor", "structcrow_1_1_unix_socket_adaptor.html", "structcrow_1_1_unix_socket_adaptor" ],
       [ "UTF8", "structcrow_1_1_u_t_f8.html", "structcrow_1_1_u_t_f8" ],
       [ "WebSocketRule", "classcrow_1_1_web_socket_rule.html", "classcrow_1_1_web_socket_rule" ]
     ] ],
